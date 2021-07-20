@@ -66,6 +66,12 @@ hi! link TabLineFill   StatusLineNC
 hi! link SpecialKey    NonText
 
 "}}}
+" nvim-lsp {{{
+hi LspDiagnosticsDefaultError ctermfg=9
+hi LspDiagnosticsDefaultWarning ctermfg=10
+hi LspDiagnosticsDefaultInformation ctermfg=4
+hi LspDiagnosticsDefaultHint ctermfg=4
+"}}}
 " Generic syntax {{{
 hi Delimiter       ctermfg=7
 hi Comment         ctermfg=8
