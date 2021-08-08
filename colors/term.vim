@@ -65,6 +65,9 @@ hi! link ModeMsg       MoreMsg
 hi! link TabLineFill   StatusLineNC
 hi! link SpecialKey    NonText
 
+" Floating window in nvim
+hi NormalFloat ctermbg=8
+
 "}}}
 " nvim-lsp {{{
 hi LspDiagnosticsDefaultError ctermfg=9
