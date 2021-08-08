@@ -71,7 +71,7 @@ hi NormalFloat ctermbg=8
 "}}}
 " nvim-lsp {{{
 hi LspDiagnosticsDefaultError ctermfg=9
-hi LspDiagnosticsDefaultWarning ctermfg=10
+hi LspDiagnosticsDefaultWarning ctermfg=11
 hi LspDiagnosticsDefaultInformation ctermfg=4
 hi LspDiagnosticsDefaultHint ctermfg=4
 "}}}
